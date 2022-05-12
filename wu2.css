@@ -1,0 +1,38 @@
+body {
+    color: rgb(212, 212, 212);
+       background-color: rgb(0, 0, 0);
+       font-style: oblique;
+       font-size: xx-large;
+   }
+   header{font-style: oblique;
+    font-size: xx-large;
+    text-align: center}
+   
+   #cpR {
+       background-color: rgb(179, 29, 112);
+       color: rgb(239, 131, 243);
+       padding: 10px;
+       border: 10px solid #631940;
+       margin: 20px;
+   vertical-align: top;}
+   
+   #material-gworl {
+    background-color: rgb(103, 0, 182);
+    color: rgb(185, 140, 253);
+    padding: 10px;
+    border: 10px solid #40005e;
+    margin: 20px;
+vertical-align: top;}
+   #yas {
+    background-color: rgb(21, 104, 193);
+    color: rgb(151, 175, 232);
+    padding: 10px;
+    border: 10px solid #041f56;
+    margin: 20px;
+vertical-align: top;}
+   
+       .fancy {
+           font-family: cursive;
+           letter-spacing: 0.5em;
+       }
+   
